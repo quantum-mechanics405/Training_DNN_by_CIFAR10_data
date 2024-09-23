@@ -1,0 +1,1 @@
+In this repository I have trained Deep Neural Network (DNN) on built in CIFAR10 data and save the best model into the logs. In the second code I regularized the code and train it giving it some accuracy boost of some percentage.
